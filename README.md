@@ -1,4 +1,5 @@
 # MyoUP Dataset
+![](https://github.com/TheCodeChugger/MyoUP/blob/master/Pictures/sEMG.png)
 ## Abstract
 In order to contribute to the acquisition of sEMG data, particularly from devices that do not require professional calibration, we developed a sizeable sEMG database. Our database, MyoUP, was inspired by the Ninapro database and all of the recorded hand-gestures, presented in: https://github.com/TheCodeChugger/MyoUP/blob/master/MyoUP_hand-gestures.pdf, are identical to some of the Ninapro (http://ninaweb.hevs.ch/). The recording device we used was the Myo Armband, by Thalmic labs. The Myo Armband is a relatively cheap and easy-to-wear device, with a sampling frequency of 200Hz and 8 dry sEMG channels that has been widely adopted in scientific research.
 
@@ -16,4 +17,7 @@ Since the results of this research where rather promising, a real-time hand gest
 ### YouTube Demo
 [![](http://img.youtube.com/vi/w98PkUeSu20/0.jpg)](http://www.youtube.com/watch?v=w98PkUeSu20)
 
-##
+## Citation
+N. Tsagkas, P. Tsinganos and A. Skodras, "On the Use of Deeper CNNs in Hand Gesture Recognition Based on sEMG Signals," 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), PATRAS, Greece, 2019, pp. 1-4. doi: 10.1109/IISA.2019.8900709
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900709&isnumber=8900660
