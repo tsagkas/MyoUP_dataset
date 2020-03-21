@@ -1,3 +1,6 @@
+
+<img align="right" width="90" height="110" src="https://github.com/TheCodeChugger/MyoUP_dataset/blob/master/Pictures/lab/DSIP-logo.png"><br />
+
 # MyoUP Dataset
 ## Abstract
 In order to contribute to the acquisition of sEMG data, particularly from devices that do not require professional calibration, we developed a sizeable sEMG database. Our database, MyoUP, was inspired by the Ninapro database and all of the recorded hand-gestures, presented in: https://github.com/TheCodeChugger/MyoUP/blob/master/MyoUP_hand-gestures.pdf, are identical to some of the Ninapro (http://ninaweb.hevs.ch/). The recording device we used was the Myo Armband, by Thalmic labs. The Myo Armband is a relatively cheap and easy-to-wear device, with a sampling frequency of 200Hz and 8 dry sEMG channels that has been widely adopted in scientific research.
