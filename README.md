@@ -16,7 +16,7 @@ The MyoUP database contains recordings from 8 intact subjects (3 females, 5 male
 [![](http://img.youtube.com/vi/iJyF1SP5_r4/0.jpg)](http://www.youtube.com/watch?v=iJyF1SP5_r4)
 
 ## Hand Gesture Recognition via sEMG signals 
-Since the results of this research where rather promising, a real-time hand gesture recognition model was developed, by designing a CNN and training it with the MyoUP dataset. More information regarding the implementation can be found here: https://github.com/TheCodeChugger/sEMG-HandGestureRecognition
+Since the results of this research where rather promising, a real-time hand gesture recognition model was developed, by designing a CNN and training it with the MyoUP dataset. More information regarding the implementation can be found here: https://github.com/tsagkas/sEMG-HandGestureRecognition
 
 ### YouTube Demo
 [![](http://img.youtube.com/vi/w98PkUeSu20/0.jpg)](http://www.youtube.com/watch?v=w98PkUeSu20)
